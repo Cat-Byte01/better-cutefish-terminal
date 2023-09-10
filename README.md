@@ -27,6 +27,7 @@ sudo apt install extra-cmake-modules qtbase5-dev qtdeclarative5-dev qtquickcontr
 ### Commands to build this:
 ```shell
 git clone https://github.com/cat-byte01/better-cutefish-terminal
+cd better-cutefish-terminal
 cd Terminal
 mkdir build
 cd build
