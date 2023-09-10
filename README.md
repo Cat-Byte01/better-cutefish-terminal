@@ -14,16 +14,17 @@ This is a fork of **https://github.com/cutefishos/Terminal**
 If you want something else to be added, make a issue about it and i will add it to my To-Do.
 
 ## Build instructions:
-### Third Party Code
+
+### Third Party Code:
 
 [qmltermwidget](https://github.com/Swordfish90/qmltermwidget).
 
-### Dependencies
+### Dependencies:
 
 ```sh
 sudo apt install extra-cmake-modules qtbase5-dev qtdeclarative5-dev qtquickcontrols2-5-dev qttools5-dev
 ```
-
+### Commands to build this:
 ```shell
 git clone https://github.com/cat-byte01/better-cutefish-terminal
 cd Terminal
