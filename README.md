@@ -1,10 +1,10 @@
 # Better cutefish terminal
- A better maintained cutefish terminal with missing features.
+ **A better maintained cutefish terminal with missing features.**
 So the default cutefish terminal looks good,and is functional, but there are some features missing, and some that I personally didn't like( for example the green text when using dark mode), so i created this repository in that purpose.
 ## Features included right now:
 - When using dark mode the text color is white
 ## To-Do:
-- [X] ~~ Change the text color when using dark mode to white ~~
+- [X] ~~Change the text color when using dark mode to white~~
 - [ ] Add a option in the settings to change text color  ( in dark and in light mode seperatly )
 - [ ] Change the settings menu  to be similar to the settings app in cutefishos
 
