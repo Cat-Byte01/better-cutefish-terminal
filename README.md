@@ -8,10 +8,10 @@ This is a fork of **https://github.com/cutefishos/Terminal**
 - When using dark mode the text color is white
 ## To-Do:
 - [X] ~~Change the text color when using dark mode to white~~
-- [ ] Add a option in the settings to change text color  ( in dark and in light mode seperatly )
-- [ ] Change the settings menu  to be similar to the settings app in cutefishos
+- [ ] Add a option in the settings to change text color.
+- [ ] Change the settings menu  to be similar to the settings app in cutefishos.
 
-If you want something else to be added, make a issue about it.
+If you want something else to be added, open a issue about it.(I don't have a log of ideas)
 
 ## Build instructions:
 
